@@ -1,3 +1,24 @@
+//Hot Module Replacement
+//Bundling
+//Minification
+//Manages Dev and prod build
+//Super fast build algorithm
+//Image Optimization
+//Caching while development
+//Compression
+//Older version of browser compatibility
+//Polyfills
+//HTTPS on local build
+//Managing port number
+//Consistent hashing algorithm
+//Zero config bundler
+
+
+
+
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /*
     *React is the core library
     *React.createElement creates the react element

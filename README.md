@@ -1,2 +1,3 @@
 # NamasteReact
-Namster react session code sinppets
+Namster react session code snippets
+
